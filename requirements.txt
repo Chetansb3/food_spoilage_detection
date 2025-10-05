@@ -1,6 +1,6 @@
-streamlit>=1.31.0
-tensorflow>=2.14.0
-opencv-python
-numpy
+streamlit
+tensorflow
 pillow
+numpy
 requests
+opencv-python-headless
